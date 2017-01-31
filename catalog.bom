@@ -2,7 +2,7 @@ brooklyn.catalog:
   items:
   - id: logstash-standalone
     version: 1.5.5
-    iconUrl: https://static-www.elastic.co/assets/blte39224bc57d3e015/icon-logstash.svg
+    iconUrl: https://broken-image.svg
     publish:
       description: Pure Brooklyn YAML blueprint to deploy a Logstash instance from the sources
       license_code: Apache-2.0
