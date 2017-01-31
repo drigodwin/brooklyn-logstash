@@ -2,7 +2,7 @@ brooklyn.catalog:
   items:
   - id: logstash-standalone
     version: 1.5.5
-    iconUrl: http://logstash.net/images/logstash.png
+    iconUrl: https://static-www.elastic.co/assets/blte39224bc57d3e015/icon-logstash.svg
     publish:
       description: Pure Brooklyn YAML blueprint to deploy a Logstash instance from the sources
       license_code: Apache-2.0
@@ -51,7 +51,7 @@ brooklyn.catalog:
         echo $! > $PID_FILE
   - id: logstash-child
     version: 1.5.5
-    iconUrl: http://logstash.net/images/logstash.png
+    iconUrl: https://static-www.elastic.co/assets/blte39224bc57d3e015/icon-logstash.svg
     publish:
       description: Pure Brooklyn YAML blueprint to deploy a Logstash instance from the sources
       license_code: Apache-2.0
